@@ -34,8 +34,8 @@ def main():
 
     while True:
         print("\n--- To-Do List Application ---")
-        print("1. Add Task")
-        print("2. Remove Task")
+        print("1. Add a Task")
+        print("2. Remove a Task")
         print("3. Display Tasks")
         print("4. Exit")
 
